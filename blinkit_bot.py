@@ -4,7 +4,7 @@ import time
 TOKEN = "YOUR_TELEGRAM_TOKEN"
 CHAT_ID = "YOUR_CHAT_ID"
 
-PRODUCT_URL = "https://blinkit.com/prn/x/prid/754157"
+PRODUCT_URL = "https://blinkit.com/prn/x/prid/755045"
 
 cookies = {
     "gr_1_lat": "12.9041898",
